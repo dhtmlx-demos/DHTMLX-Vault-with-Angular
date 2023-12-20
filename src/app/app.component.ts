@@ -1,9 +1,9 @@
-import { Component } from "@angular/core";
+import { Component } from '@angular/core';
 
 @Component({
-  selector: "app-root",
-  template: `<spreadsheet />`,
+  selector: 'app-root',
+  template: `<vault />`,
 })
 export class AppComponent {
-  name = "";
+  name = '';
 }

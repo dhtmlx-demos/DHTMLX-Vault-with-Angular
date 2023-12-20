@@ -1,0 +1,16 @@
+{
+  "name": "@dhx/trial-vault",
+  "version": "4.1.4",
+  "description": "dhtmlxVault widget",
+  "homepage":"https://docs.dhtmlx.com/vault",
+  "license":"SEE LICENSE IN license.txt",
+  "bugs":{
+    "url" : "https://forum.dhtmlx.com",
+    "email" : "support@dhtmlx.com"
+  },
+  "publishConfig":{
+    "registry":"https://npm.dhtmlx.com"
+  },
+  "main": "codebase/vault.min.js",
+  "types": "codebase/vault.d.ts"
+}

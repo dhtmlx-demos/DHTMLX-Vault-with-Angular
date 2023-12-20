@@ -1,0 +1,7 @@
+@import "../../../node_modules/@dhx/trial-vault/codebase/vault.min.css";
+
+.widget {
+  width: 440px;
+  height: 400px;
+  margin: 50px auto;
+}
